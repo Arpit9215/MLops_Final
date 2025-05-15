@@ -31,6 +31,11 @@ This project implements a robust MLOps pipeline, facilitating the continuous int
 
 
 
+## Model Versioning :
+
+**ML Flow** :
+![mlflow](https://github.com/user-attachments/assets/d7a2d1bd-1ee5-4298-a1d3-878828727daf)
+
 
 
 
@@ -71,10 +76,6 @@ This project implements a robust MLOps pipeline, facilitating the continuous int
 
 Monitoring FastAPI methods on Grafana,
 
-
-![fastapi_continuous_monitoring](https://github.com/Chandru-21/MLOps_Project/assets/64595758/930f0a9a-352f-41f9-8106-9b6735af8ce4)
-
-**Monitoring the resources of the Kubernetes cluster on Grafana** :
 
 ![grafana](https://github.com/user-attachments/assets/d51f973d-217b-4c91-bca1-084cdb0c4276)
 
