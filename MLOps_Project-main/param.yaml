@@ -1,0 +1,5 @@
+data:
+  version: v1
+  raw_path: prediction_model/datasets/raw/dataset_v1.csv
+  processed_path: data_versions/v1/processed.csv
+  model_path: prediction_model/trained_models/v1/model.pkl
