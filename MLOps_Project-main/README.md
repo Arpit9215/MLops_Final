@@ -50,23 +50,34 @@ This project implements a robust MLOps pipeline, facilitating the continuous int
 
 ## Continuous Monitoring(CM)
 
+
 **Exposing "/metrics" on FastAPI to be connected to Prometheus** :
 
-![fastapi](https://github.com/Chandru-21/MLOps_Project/assets/64595758/09b18b44-8cb1-4a86-9172-c79082cb77c8)
+![Screenshot 2025-05-15 183201](https://github.com/user-attachments/assets/cd46649e-451c-41f3-8baa-66361748dd3f)
+
+![Screenshot 2025-05-15 183213](https://github.com/user-attachments/assets/52edbc5c-9c37-443a-8e1b-b892c71ddf8e)
+
+
+![Screenshot 2025-05-15 183230](https://github.com/user-attachments/assets/5ebb79b0-72c9-436a-8709-d183f26d9f46)
+
+
 
 **FastAPI integrated in to Prometheus** :
 
-![fastapi_prometheus](https://github.com/Chandru-21/MLOps_Project/assets/64595758/4b21c089-bef3-4e39-b5e1-04cb8e026345)
+
+![promethus](https://github.com/user-attachments/assets/6cdf30fa-940f-4b8d-b6e0-744de2ecd5a1)
 
 **Integrating Prometheus in to Grafana for Visualization** :
 
 Monitoring FastAPI methods on Grafana,
 
+
 ![fastapi_continuous_monitoring](https://github.com/Chandru-21/MLOps_Project/assets/64595758/930f0a9a-352f-41f9-8106-9b6735af8ce4)
 
 **Monitoring the resources of the Kubernetes cluster on Grafana** :
 
-![grafana_monitoring_containers_dashboard](https://github.com/Chandru-21/MLOps_Project/assets/64595758/d046d9f9-1477-4975-9041-f4aa128bb0f3)
+![grafana](https://github.com/user-attachments/assets/d51f973d-217b-4c91-bca1-084cdb0c4276)
+
 
 
 
