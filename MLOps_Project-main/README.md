@@ -1,6 +1,8 @@
 # Machine Learning Opearations (MLOps)
+# Arpit Garg(ME20B035) 
+# Thunguri Prajvalitha (ED20B071)
 
-## MLOps maturity level 4
+## MLOps Project
 
 ## Overview :
 This project implements a robust MLOps pipeline, facilitating the continuous integration, continuous deployment, and monitoring of machine learning models. The infrastructure leverages AWS, Kubernetes, and various open-source tools to ensure scalability, reproducibility, and maintainability.
@@ -32,15 +34,18 @@ This project implements a robust MLOps pipeline, facilitating the continuous int
 
 
 
+
 ## Data Monitoring :
 
 **Data Drift Monitoring** :
 
-![image](https://github.com/Chandru-21/MLOps_Project/assets/64595758/af0df23d-9980-4ee4-94c0-ddebdb923237)
+![Screenshot 2025-05-15 183409](https://github.com/user-attachments/assets/75e772d9-7d42-4ce3-9056-d45a10771e04)
 
-**Data Quality checks** :
 
-![image](https://github.com/Chandru-21/MLOps_Project/assets/64595758/c1c62d64-9b69-4ca7-ba45-45ae226a7620)
+
+
+![Screenshot 2025-05-15 183419](https://github.com/user-attachments/assets/3564b36a-a3ba-4d98-88b6-2dc801ab8f85)
+
 
 
 ## Continuous Monitoring(CM)
